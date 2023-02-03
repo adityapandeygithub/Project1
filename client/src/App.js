@@ -102,5 +102,3 @@ const [posts, setPosts] = useState(null);
   );
 }
 export default App;
-
-adityapandey
